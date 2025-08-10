@@ -10,13 +10,13 @@
 
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/OdhF7ym.png " group-title="⭐️ Argentina",🇦🇷| a24
-http://playlist3.ddns.net/live/miguel01/B33gfGT8bc/3484.ts
+
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-9Fs8V1Q09HR1f3IcZEBOtpY4dyHNFoirw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 12 cordoba
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/E3pamA5.png " group-title="⭐️ Argentina",🇦🇷| c5n
-http://pro.boxdigital.org:8080/cambiothelider614Y/YxLZm7nAy4/74260
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/xDjOUuz.png " group-title="⭐️ Argentina",🇦🇷| canal 26
 
@@ -25,31 +25,31 @@ http://pro.boxdigital.org:8080/cambiothelider614Y/YxLZm7nAy4/74260
 
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/EtcVSm4.png " group-title="⭐️ Argentina",🇦🇷| el 9 
-http://1play.cool:25461/3362311362/4831f6f74e/29987
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/vJYzGt1.png " group-title="⭐️ Argentina",🇦🇷| la nacion +
-http://playtv44.com:8080/roviedo385/123123/51596
+
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRUMGDhsjkP5tFWsCkT8IEyKFsGgA4IM3Dg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| tn noticias
-http://stklatino.dynns.com:2082/live/xmstgo313/5251458962/2341.ts
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/4hYYpiu.png " group-title="⭐️ Argentina",🇦🇷| tv publica
 
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png " group-title="⭐️ Argentina",🇦🇷| america tv
-http://twomonkeys.live:80/Albert123/Albert123/1070120.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/ZK7AQFg.png " group-title="⭐️ Argentina",🇦🇷| canal 13
-http://tv.soccerplus.link:8000/live/AlvaroSuarez07/Fhij357W/22392.ts
+
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefe
-http://1play.cool:25461/3362311362/4831f6f74e/163708
+
 
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| canal 34 san juan
-https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="  " group-title="⭐️ Argentina",🇦🇷| canal 4 san juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine PREMIUM",CINE| HBO
@@ -142,7 +142,7 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium
-http://iptvhogar.club:25461/live/Jonathan_Cabeza/3774389217/109.m3u8
+http://playlist3.ddns.net/live/miguel01/B33gfGT8bc/3484.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpZAZTooZ7FxcyQr_DoYLsEDEsKSeYPwk00Q&usqp=CAU" group-title="⚽ Deportes argentina⚽️",  espn premium opc2
 http://tv.proyectox.vip:8080/live/harryjuarez/rX6ZNhVejp/9550.ts
